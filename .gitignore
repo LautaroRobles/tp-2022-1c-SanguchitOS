@@ -1,0 +1,83 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/.metadata/
+
+
+
+.idea/
+
+RemoteSystemsTempFiles/
+
+Modulo_Consola/.settings/
+Modulo_Kernel/.settings/
+Modulo_CPU/.settings/
+Modulo_Memoria/.settings/
+Shared/.settings/
+
+Modulo_Consola/Debug/
+
+Modulo_Consola/.cproject/
+Modulo_Kernel/.cproject/
+Modulo_CPU/.cproject/
+Modulo_Memoria/.cproject/
+Shared/.cproject/
+
+Modulo_Consola/.project/
+Modulo_Kernel/.project/
+Modulo_CPU/.project/
+Modulo_Memoria/.project/
+Shared/.project/
+
+.DS_Store
+
+*.log
